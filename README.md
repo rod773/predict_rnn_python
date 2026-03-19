@@ -15,7 +15,7 @@ This tool fetches real-time historical data from Yahoo Finance, processes it wit
 
 ## Requirements
 
-Ensure you have Python 3.7+ installed.
+Ensure you have Python 3.12.1 installed.
 
 ### Dependencies
 
